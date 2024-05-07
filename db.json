@@ -1,0 +1,169 @@
+{
+    "clientes": [
+        {
+            "id": 1,
+            "name": "juan gabriel cortez",
+            "direccion": " mate de luna 1620",
+            "telefono": "3815000555"
+        },
+        {
+            "id": 2,
+            "name": "jose antonio benitez",
+            "direccion": " mate de luna 1720",
+            "telefono": "3815002565"
+        },
+        {
+            "id": 12,
+            "name": "Juan Ramon Simón goz ",
+            "direccion": " mate de luna 330",
+            "telefono": "38150004454"
+        },
+        {
+            "id": 4,
+            "name": "carlos gabriel ramirez",
+            "direccion": " mate de luna 1650 3°b",
+            "telefono": "381897456"
+        },
+        {
+            "id": 5
+        },
+        {
+            "id": 6
+        },
+        {
+            "id": 7
+        },
+        {
+            "id": 8
+        },
+        {
+            "id": 9
+        },
+        {
+            "id": 10
+        },
+        {
+            "id": 3,
+            "name": "Juan Ramon Simón Sarmiento ",
+            "direccion": " mate de luna 330",
+            "telefono": "38150004454"
+        },
+        {
+            "id": 12,
+            "name": "Juan Ramon Simón Sarmiento ",
+            "direccion": " mate de luna 330",
+            "telefono": "38150004454"
+        },
+        {
+            "id": 13
+        },
+        {
+            "id": 14
+        },
+        {
+            "id": 15
+        },
+        {
+            "id": 16
+        },
+        {
+            "id": 17
+        },
+        {
+            "id": 18
+        },
+        {
+            "id": 19
+        },
+        {
+            "id": 20
+        },
+        {
+            "id": 21
+        },
+        {
+            "id": 22
+        },
+        {
+            "id": 23
+        },
+        {
+            "id": 24,
+            "name": "Juan Ramon ",
+            "direccion": " mate de luna",
+            "telefono": "3816"
+        },
+        {
+            "id": 25,
+            "name": "Juan Ramon ",
+            "direccion": " mate de luna",
+            "telefono": "3816"
+        },
+        {
+            "id": 26,
+            "name": "Juan Ramon ",
+            "direccion": " mate de luna",
+            "telefono": "3816"
+        },
+        {
+            "id": 27,
+            "name": "Juan Ramon ",
+            "direccion": " mate de luna",
+            "telefono": "3816"
+        },
+        {
+            "id": 4,
+            "name": "Juan Ramon ",
+            "direccion": " mate de luna",
+            "telefono": "3816"
+        },
+        {
+            "id": 4,
+            "name": "Juan Ramon ",
+            "direccion": " mate de luna",
+            "telefono": "3816"
+        },
+        {
+            "id": 4,
+            "name": "Juan Ramon ",
+            "direccion": " mate de luna",
+            "telefono": "3816"
+        },
+        {
+            "id": 4,
+            "name": "Juan R ",
+            "direccion": " mate de luna",
+            "telefono": "3816"
+        },
+        {
+            "id": 32,
+            "name": "Juan Ramon ",
+            "direccion": " mate de luna",
+            "telefono": "3816545646"
+        },
+        {
+            "id": 33,
+            "name": "Juan Ramon ",
+            "direccion": " mate de luna",
+            "telefono": "3816545646"
+        },
+        {
+            "id": 34,
+            "name": "Juan Ramon ",
+            "direccion": " mate de luna",
+            "telefono": "3816545646"
+        },
+        {
+            "id": 35,
+            "name": "Juan Ramon ",
+            "direccion": " mate de luna",
+            "telefono": "3816545646"
+        },
+        {
+            "id": 12,
+            "name": "Juan Ramon Simón goz ",
+            "direccion": " mate de luna 330",
+            "telefono": "38150004454"
+        }
+    ]
+}

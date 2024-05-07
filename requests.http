@@ -1,0 +1,27 @@
+GET http://localhost:3000/clientes HTTP/1.1
+###
+GET http://localhost:3000/clientes/33 HTTP/1.1
+###
+POST Http://localhost:3000/clientes HTTP/1.1
+Content-Type: application/json
+
+
+{
+//"id":12,
+"name":"Juan Ramon goz ",
+"direccion": " mate de luna",
+"telefono": "3816545646"
+}
+###
+PUT Http://localhost:3000/clientes/12 HTTP/1.1
+Content-Type: application/json
+
+
+{
+"id":12,
+"name":"Juan Ramon Simón goz ",
+"direccion":" mate de luna 330",
+"telefono": "38150004454"
+}
+###
+DELETE http://localhost:3000/clientes/33 HTTP/1.1
